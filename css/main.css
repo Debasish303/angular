@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.edetails {
+    height: 275px;
+    width: 44%;
+    margin: 10% auto;
+    border: 2px solid #80808082;
+    background-color: #80808030;
+}
+.evatar {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    float: left;
+    margin: 0 10% 0 0;
+}
+.einfo {
+    font-size: 23px;
+}
+.einfo span {
+    display: block;
+    text-align: left;
+}
