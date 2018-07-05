@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 .edetails {
-    height: 275px;
+    height: auto;
     width: 44%;
     margin: 10% auto;
     border: 2px solid #80808082;
@@ -21,6 +21,7 @@ body {
 }
 .einfo {
     font-size: 23px;
+    padding-bottom: 15%;
 }
 .einfo span {
     display: block;
