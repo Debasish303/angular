@@ -1,29 +1,27 @@
 body {
-    margin: 0;
-    padding: 0;
-}
+  margin: 0;
+  padding: 0; }
+
 .edetails {
-    height: auto;
-    width: 44%;
-    margin: 10% auto;
-    border: 2px solid #80808082;
-    background-color: #80808030;
-}
+  height: auto;
+  width: 44%;
+  margin: 10% auto;
+  border: 2px solid #80808082;
+  background-color: #80808030; }
+
 .evatar {
-    position: relative;
-    top: 20px;
-    left: 20px;
-    float: left;
-    margin: 0 10% 0 0;
-}
-.evatar img{
+  position: relative;
+  top: 20px;
+  left: 20px;
+  float: left;
+  margin: 0 10% 0 0; }
+  .evatar img {
     border: 2px solid #80808082;
-}
+    cursor: pointer; }
+
 .einfo {
-    font-size: 23px;
-    padding-bottom: 15%;
-}
-.einfo span {
+  font-size: 23px;
+  padding-bottom: 15%; }
+  .einfo span {
     display: block;
-    text-align: left;
-}
+    text-align: left; }
